@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**Richards-isaac/richards-isaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
-Here are some ideas to get you started:
+Currently WORKING at[@TophTechHub](https://tophtechhub.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
+- ⚡ Fun fact: I have written [973, 047](https://sourcerer.io/feycode) lines of code so far.
+- 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
+- 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), React & RN and Dart (Flutter).
+
+
+## 🔓 Open Source Contributions
+
+![Richard's Github Stats](https://github-readme-stats.vercel.app/api?username=Richards-isaac&show_icons=true)
+
+
+## 🤷 What else?
+
+- [Blog](https://dev.to/feycode)
+- [Portfolio](https://feycode.github.io)
+- [Sourcerer](https://feycode.io/dfiredeveloper)
+- [Twitter](https://twitter.com/feycode)
+- [Codepen](https://codepen.io/feycode)
+- [Facebook](https://facebook.com/)
+- [Instagram](https://www.instagram.com/feycode)
