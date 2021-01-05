@@ -1,13 +1,13 @@
-# Hello there 👋
+# Hello Homo Sapian 👋 Welcome to my Repo
 
-I am a Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
+I am a Highly Introverted Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
 Currently WORKING at[@TophTechHub](https://tophtechhub.com)
 
-- 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello.
-- ⚡ Fun fact: I have written [973, 047](https://sourcerer.io/feycode) lines of code so far.
-- 🎉 Hobbies: Contributing to FOSS, Reading and Writing Tech Articles.
-- 💬 Ask me about: JavaScript, PHP (Laravel, WordPress), React & RN and Dart (Flutter).
+- 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello .
+- ⚡ Fun fact:I am A Developer With Life.
+- 🎉 Hobbies: Contributing to Open Source, Reading and Writing Tech Articles.
+- 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django).
 
 
 ## 🔓 Open Source Contributions
