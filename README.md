@@ -1,4 +1,4 @@
-# Hello Homo Sapian 👋 Welcome to my Repo
+# Hello Homo Sapian (s) 👋 Welcome to my Repo
 
 I am a Highly Introverted Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
 
@@ -13,7 +13,6 @@ Currently WORKING at[@TophTechHub](https://tophtechhub.com)
 ## 🔓 Open Source Contributions
 
 ![Richard's Github Stats](https://github-readme-stats.vercel.app/api?username=Richards-isaac&show_icons=true)
-
 
 ## 🤷 What else?
 
