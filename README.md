@@ -16,7 +16,7 @@ Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 
 ## 🤷 What else?
 
-- [Blog](https://dev.to/feycode)
+- [Blog](https://dev.to/richardsisaac)
 - [Portfolio](https://feycode.github.io)
 - [Sourcerer](https://feycode.io/feycode)
 - [Twitter](https://twitter.com/feycode)
