@@ -37,6 +37,7 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 </td>
 ![Visitor Count](https://profile-counter.glitch.me/{richards-isaac}/count.svg)
+
 [twitter]: https://twitter.com/feycode
 [hashnode]: https://dev.to/richardsisaac
 [gmail]: https://gmail.com
