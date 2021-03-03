@@ -7,7 +7,7 @@ Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 - 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello .
 - ⚡ Fun fact:I am A Developer With Life.
 - 🎉 Hobbies: Contributing to Open Source, Reading and Writing Tech Articles.
-- 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django).
+- 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) Java, PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django) Adobe(Photoshop, Lightroom, premierPro, AfterEffect).
 
 
 ## 🔓 Open Source Contributions
