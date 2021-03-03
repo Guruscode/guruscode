@@ -33,7 +33,7 @@ Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 <table><tr><td valign="top" width="50%">
 
 ### My Digital Garden 🌱
-You can find my blogs at my [Website](https://dev.to/feycode).
+You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 </td>
 ![Visitor Count](https://profile-counter.glitch.me/{richards-isaac}/count.svg)
