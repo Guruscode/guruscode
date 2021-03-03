@@ -16,7 +16,11 @@ PHP | Flutter | Python | Javascript
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Hello Homo Sapian (s) ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Welcome to my Repo</h2>
 
- 
+ I am a Highly Introverted Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
+
+Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
+
+
 * Primary coding language: PHP.
 * I’m currently working on my portfolio.
 * 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello .
@@ -34,31 +38,26 @@ You can find my blogs at my [Website](https://dev.to/feycode).
 </td>
 ![Visitor Count](https://profile-counter.glitch.me/{richards-isaac}/count.svg)
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<hr>
 
 [twitter]: https://twitter.com/feycode
-[hashnode]: https://feycode.com
+[hashnode]: https://dev.to/richardsisaac
 [gmail]: https://gmail.com
 [linkedin]: https://www.linkedin.com/in/feycode/
 [facebook]: https://www.facebook.com/richardisaac
-
-I am a Highly Introverted Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
-
-Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 
 
 ## 🔓 Open Source Contributions
 
 ![Richard's Github Stats](https://github-readme-stats.vercel.app/api?username=Richards-isaac&show_icons=true)
 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<hr>
+
+
 ## 🤷 What else?
 
-- [Blog](https://dev.to/richardsisaac)
 - [Portfolio](https://feycode.github.io)
 - [Sourcerer](https://feycode.io/feycode)
-- [Twitter](https://twitter.com/feycode)
 - [Codepen](https://codepen.io/feycode)
-- [Facebook](https://facebook.com/)
 - [Instagram](https://www.instagram.com/feycode)
  
