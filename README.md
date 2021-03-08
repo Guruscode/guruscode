@@ -1,6 +1,6 @@
 <hr />
 <h3 align="center">
-PHP | Flutter | Python | Javascript
+PHP | Flutter | Python | Javascript | LARAVEL
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
