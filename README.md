@@ -1,6 +1,6 @@
 <hr />
 <h3 align="center">
-PHP | Flutter | Python | Javascript | LARAVEL
+PHP | Flutter | Python | Javascript | Laravel->Livewire
 
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 ❤ <br> Homo Sapian(s) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -11,11 +11,11 @@ PHP | Flutter | Python | Javascript | LARAVEL
 Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 
 
-* Primary coding language: PHP.
+* Primary coding language: PHP - Javascript.
 * I’m currently working on my portfolio.
 * 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello .
-* ⚡ Fun fact:I am A Developer With Life.
-* 🎉 Hobbies: Contributing to Open Source, Reading and Writing Tech Articles.
+* ⚡ Fun fact:I am A Developer With Life and that Life is found in Christ 😎.
+* 🎉 Hobbies: Contributing to Open Source, Reading , Writing Tech Articles Playying Musical Instrument(Keyboard, Guitar &nbsp Drums.
 * 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) Java, PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django) Adobe(Photoshop, Lightroom, premierPro, AfterEffect).
 *  Infact Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
@@ -26,8 +26,6 @@ Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
 You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 </td>
-![Visitor Count](https://profile-counter.glitch.me/{richards-isaac}/count.svg)
-
 
 ## 🔓 Open Source Contributions
 
