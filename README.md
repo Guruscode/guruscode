@@ -6,9 +6,9 @@ PHP | Flutter | Python | Javascript | Laravel->Livewire
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 ❤ <br> Homo Sapian(s) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <h3> Welcome to my Repo</h3>
 
- I am a Highly Introverted Software Developer that develops intuitive Web and Mobile applications that helps businesses connect with their target audience through the internet.
+ I am a Highly Introverted Software Developer that develops intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
 
-Currently WORKING at[@TophTechHub](http://tophtechhub.epizy.com)
+Currently Working at[@TophTechHub](http://tophtechhub.epizy.com)
 
 
 * Primary coding language: PHP - Javascript.
