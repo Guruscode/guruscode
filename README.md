@@ -31,6 +31,18 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 ![Richard's Github Stats](https://github-readme-stats.vercel.app/api?username=Richards-isaac&show_icons=true)
 
+<p align="middle">
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=Richards-isaac&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+</p>
+
+---
+
+<div>
+ 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richards-isaac&layout=compact" />
+</div>
+
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <hr>
 
