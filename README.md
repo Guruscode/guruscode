@@ -10,9 +10,8 @@ PHP | Flutter | Python | Javascript | Laravel->Livewire
 
 Currently Working at[@TophTechHub](http://tophtechhub.epizy.com)
 
-
-* Primary coding language: PHP - Javascript.
-* I’m currently working on my portfolio.
+* 🌱 Primary coding language: PHP - Javascript.
+* 📫 I’m currently working on my portfolio.
 * 🚀 Daily Drivers: Visual Studio Code, Spotify & Trello .
 * ⚡ Fun fact:I am A Developer With Life and that Life is found in Christ 😎.
 * 🎉 Hobbies: Contributing to Open Source, Reading , Writing Tech Articles Playying Musical Instrument(Keyboard, Guitar &nbsp Drums.
