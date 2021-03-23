@@ -1,6 +1,6 @@
 <hr />
 <h3 align="center">
-PHP | Flutter | Python | Javascript | Laravel->Livewire
+PHP | Flutter | Python | Javascript | WordPress
 
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 ❤ <br> Homo Sapian(s) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
