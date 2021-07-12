@@ -1,6 +1,6 @@
 <hr />
 <h3 align="center">
-PHP | Flutter | Python | Javascript | WordPress
+PHP | Dart | Python | CPP | Javascript | WordPress
 
 
 <h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 ❤ <br> Homo Sapian(s) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -51,5 +51,5 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 - [Portfolio](https://feycode.github.io)
 - [Sourcerer](https://feycode.io/feycode)
 - [Codepen](https://codepen.io/feycode)
-- [Instagram](https://www.instagram.com/feycode)
+- [Instagram](https://www.instagram.com/Richardoluisaac)
  
