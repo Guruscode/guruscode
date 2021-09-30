@@ -47,7 +47,7 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 
 ## 🤷 What else?
-- [Blog](https://feycode.hashnode.dev)
+- [Blog](https://richardsisaac.hashnode.dev)
 - [Portfolio](https://feycode.github.io)
 - [Sourcerer](https://feycode.io/feycode)
 - [Codepen](https://codepen.io/feycode)
