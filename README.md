@@ -51,5 +51,5 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 - [Portfolio](https://feycode.github.io)
 - [Sourcerer](https://feycode.io/feycode)
 - [Codepen](https://codepen.io/feycode)
-- [Instagram](https://www.instagram.com/Richardoluisaac)
+- [Instagram](https://www.instagram.com/guruscode)
  
