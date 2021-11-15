@@ -1,4 +1,4 @@
-<hr />
+
 Hello there 🙅‍♂️
 <h3> Welcome to my Repo</h3>
 My Name is Richard Isaac I am a  Software Developer that develops intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
@@ -40,7 +40,6 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-<hr>
 
 
 ## 🤷 What else?
