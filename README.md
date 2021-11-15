@@ -1,14 +1,9 @@
 <hr />
-<h3 align="center">
-PHP | Dart | Python | CSHARP | Javascript | WordPress
-
-
-<h2 align="center"> 𝐇𝐞𝐥𝐥𝐨 ❤ <br> Homo Sapian(s) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+### Hello there 🙅‍♂️
 <h3> Welcome to my Repo</h3>
+My Name is Richard Isaac I am a  Software Developer that develops intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
 
- I am a Highly Introverted Software Developer that develops intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
-
-Currently Working at[@TophTechHub](http://tophtechhub.epizy.com)
+Currently Working at[@Tribinnov](https://github.com/tribinnov)
 
 * 🌱 Primary coding language: PHP - Javascript.
 * 📫 I’m currently working on my portfolio.
@@ -27,18 +22,21 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 </td>
 
 ## 🔓 Open Source Contributions
+## &#x1f4c8; GitHub Stats.
 
-![Richard's Github Stats](https://github-readme-stats.vercel.app/api?username=Richards-isaac&show_icons=true)
+![Guruscode's github stats](https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&title_color=f4f4f4&&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruscode&layout=compact&theme=radical)](https://github.com/guruscode)
+
 
 <p align="middle">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=Richards-isaac&rank=SS,S,AAA,AA,A,B,C&row=1&column=5"/>
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=guruscode,S,AAA,AA,A,B,C&row=1&column=5"/>
 </p>
 
 ---
 
 <div>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richards-isaac&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruscodecompact" />
 </div>
 
 
