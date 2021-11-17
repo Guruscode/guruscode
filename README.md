@@ -1,7 +1,7 @@
 
 Hello there 🙅‍♂️
 <h3> Welcome to my Repo</h3>
-My Name is Richard Isaac I am a  Software Developer that develops intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
+My Name is Richard Isaac I am a  Software Engineer a Film Producer and a Music Junkie. I develop intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
 
 Currently Working at[@Tribinnov](https://github.com/tribinnov)
 
