@@ -3,7 +3,7 @@ Hello, Homo Sapien 👋
 <h3> Welcome to my Repo</h3>
 My Name is Richard Isaac I am a  Software Engineer a Film Producer and a Music Junkie. I develop intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
 
-Currently Working at[@Tribinnov](https://github.com/tribinnov)
+Currently Working at[@Tribinnov](https://tribinnovafrica.com/)
 
 * 🌱 Primary coding language: PHP - Javascript - Dart - Go.
 * 📫 I’m currently working on my portfolio and also Building a career in Tech And Film Industry.
