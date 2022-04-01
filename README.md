@@ -1,13 +1,13 @@
 
 Hello, Homo Sapien 👋
 <h3> Welcome to my Repo</h3>
-My Name is Richard Isaac I am a  Software Engineer a Film Producer and a Music Junkie. I develop intuitive Web , Mobile &nbsp Desktop applications that helps businesses connect with their target audience through the internet.
+Before you is Richard Isaac a • Music ♡er  •Blockchain • Mobile and Web Engineer • I develop intuitive Web , Mobile &nbsp Desktop applications that are Enjoyable and User Focused.
 
-Currently Working at[@Tribinnov](https://tribinnovafrica.com/)
+Currently Working at[@Mobiverio](https://mobiverrio.com/)
 
 * 🌱 Primary coding language: PHP - Javascript - Dart - Go.
 * 📫 I’m currently working on my portfolio and also Building a career in Tech And Film Industry.
-* 🚀 Daily Drivers: Visual Studio Code, Boomplay .
+* 🚀 Daily Drivers: Php Storm - Boomplay - Android Studio.
 * ⚡ Fun fact:I am A Developer With Life and that Life is found in Christ 😎.
 * 🎉 Hobbies: Contributing to Open Source, Reading , Writing Tech Articles Playing Musical Instrument(Keyboard, Guitar &nbsp Drums.
 * 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) Java, PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django) Adobe(Photoshop, Lightroom, premierPro, AfterEffect).
@@ -21,7 +21,7 @@ Currently Working at[@Tribinnov](https://tribinnovafrica.com/)
 
 
 ### My Digital Garden 🌱
-You can find my blogs at my [Website](https://dev.to/richardsisaac).
+You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 
 </td>
 
@@ -40,9 +40,8 @@ You can find my blogs at my [Website](https://dev.to/richardsisaac).
 
 
 ## 🤷 What else?
-- [Blog](https://richardsisaac.hashnode.dev)
-- [Portfolio](https://feycode.github.io)
-- [Sourcerer](https://feycode.io/feycode)
-- [Codepen](https://codepen.io/feycode)
-- [Instagram](https://www.instagram.com/guruscode)
+- [Blog](https://hashnode.com/@engrdexter)
+- [Portfolio](https://richard-dexter.vercel.app/)
+- [Codepen](https://codepen.io/guruscode)
+- [Instagram](https://www.instagram.com/engrdexter_)
  
