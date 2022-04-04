@@ -3,7 +3,7 @@ Hello, Homo Sapien 👋
 <h3> Welcome to my Repo</h3>
 Before you is Richard Isaac a • Music ♡er  •Blockchain • Mobile and Web Engineer • I develop intuitive Web , Mobile &nbsp Desktop applications that are Enjoyable and User Focused.
 
-Currently Working at[@Mobiverio](https://mobiverrio.com/)
+Currently Working at[@Mobiverio](https://mobiverio.com/)
 
 * 🌱 Primary coding language: PHP - Javascript - Dart - Go.
 * 📫 I’m currently working on my portfolio and also Building a career in Tech And Film Industry.
