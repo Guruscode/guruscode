@@ -1,17 +1,17 @@
 
-Hello, Homo Sapien 👋
-<h3> Welcome to my Repo</h3>
-Before you is Richard Isaac a • Music ♡er  •Blockchain • Mobile and Web Engineer • I develop intuitive Web , Mobile &nbsp Desktop applications that are Enjoyable and User Focused.
+         "Stay hungry, stay foolish," (Steve Jobs)
+                    👋   Hello mortal, May I  👋
+                    
+Before you is god who has great love for • Music♡  • Blockchain • Mobile and Web Development • I develop intuitive Web  &nbsp  Mobile applications that are Enjoyable and User Focused.
 
-Currently Working at[@Mobiverio](https://mobiverio.com/)
 
-* 🌱 Primary coding language: PHP - Javascript - Dart - Go.
-* 📫 I’m currently working on my portfolio and also Building a career in Tech And Film Industry.
+
+* 🌱 Primary coding language: PHP - Javascript - Dart - Learning [Go, Solidity Web3.js].
+* 📫 I’m currently  Building - [@Mobiverio](https://mobiverio.com/).
 * 🚀 Daily Drivers: Php Storm - Boomplay - Android Studio.
-* ⚡ Fun fact:I am A Developer With Life and that Life is found in Christ 😎.
-* 🎉 Hobbies: Contributing to Open Source, Reading , Writing Tech Articles Playing Musical Instrument(Keyboard, Guitar &nbsp Drums.
-* 💬 Ask me about: JavaScript (React & RN, Vue), Node(Express) Java, PHP (Laravel, WordPress C.I), Dart (Flutter) Python(Django) Adobe(Photoshop, Lightroom, premierPro, AfterEffect).
-*  Infact Ask me about anything, I'll be happy to help.
+* ⚡ Fun fact: I love To Build My own Universe someday  .
+* 🎉 Hobbies: Reading ,Writing Tech Articles Playing Musical Instrument(Keyboard, Guitar &nbsp Drums).
+* 💬 Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/Him
 
 
@@ -43,5 +43,5 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 - [Blog](https://hashnode.com/@engrdexter)
 - [Portfolio](https://richard-dexter.vercel.app/)
 - [Codepen](https://codepen.io/guruscode)
-- [Instagram](https://www.instagram.com/engrdexter_)
+- [Linkedin](https://www.linkedin.com/in/dexterslens/)
  
