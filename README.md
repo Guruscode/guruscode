@@ -31,6 +31,9 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 ## &#x1f4c8; GitHub Stats.
 ![Guruscode's github stats](https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&title_color=f4f4f4&&icon_color=00d8fd&bg_color=0A1A2F&text_color=a3a8c3)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruscode&layout=compact&theme=radical)](https://github.com/guruscode)
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&theme=tokyonight" 
+/>
 
 
 
