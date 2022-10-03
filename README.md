@@ -31,7 +31,7 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 ## &#x1f4c8; GitHub Stats.
 
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=guruscode&sow_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=guruscoe&show_icons=true&theme=tokyonight" 
 />
 
 
