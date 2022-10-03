@@ -16,7 +16,7 @@ Colours used: #AE16B3 #426699
 </p>
 
 <br>
-Before you is god who has great love for • Music♡  • Blockchain • Mobile and Web Development • I develop intuitive Web  &nbsp  Mobile applications that are Enjoyable and User Focused.
+Before you is god who has great love for • Music♡  • Blockchain • Mobile and Web Development ; br I develop intuitive Web & Mobile applications that are Enjoyable and User Focused.
 
 
 
@@ -72,8 +72,6 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 </td>
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
 
 ## 🤷 What else?
 - [Blog](https://hashnode.com/@engrdexter)
@@ -81,3 +79,5 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 - [Codepen](https://codepen.io/guruscode)
 - [Linkedin](https://www.linkedin.com/in/dexterslens/)
  
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
