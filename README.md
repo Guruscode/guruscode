@@ -2,6 +2,22 @@
          "Stay hungry, stay foolish," (Steve Jobs)
                     👋   Hello mortal, May I  👋
                     
+<!-- Icon info:
+Creator: Gregor Cresnar
+Colours used: #AE16B3 #426699 
+-->
+<p align = "center"> 
+  <a href = "https://twitter.com/Akshu_on_github">
+    <img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
+  </a>
+  <a href = "https://www.linkedin.com/in/akshaya-kulasekaran/">
+    <img src="https://user-images.githubusercontent.com/61582763/135242596-9d7f796a-faa9-47fe-b0cb-2cfc04432def.png" alt = "LinkedIn Icon">
+  </a>
+</p>
+
+<br>
+
+                    
 Before you is god who has great love for • Music♡  • Blockchain • Mobile and Web Development • I develop intuitive Web  &nbsp  Mobile applications that are Enjoyable and User Focused.
 
 
