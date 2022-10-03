@@ -17,7 +17,7 @@ Colours used: #AE16B3 #426699
 </p>
 
 <br>
-Before you is god who has great love for • Music♡  • Blockchain • Mobile and Web Development : I develop intuitive Web & Mobile applications that are Enjoyable and User Focused.
+Before you is god who has great love for • Music  • Blockchain • Mobile and Web Development : I develop intuitive Web & Mobile applications that are Enjoyable and User Focused.
 
 
 
