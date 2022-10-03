@@ -77,7 +77,6 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 - [Blog](https://hashnode.com/@engrdexter)
 - [Portfolio](https://richard-dexter.vercel.app/)
 - [Codepen](https://codepen.io/guruscode)
-- [Linkedin](https://www.linkedin.com/in/dexterslens/)
  
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
