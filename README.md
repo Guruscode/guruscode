@@ -52,7 +52,7 @@ Before you is god who has great love for • Music  • Blockchain • Mobile an
 <br><br>
 
 <p align = "center">
-  <a href="https://github.com/gutuscode">
+  <a href="https://github.com/guruscode">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&hide=stars&theme=radical">
   </a>
   <a href="https://github.com/guruscode">
