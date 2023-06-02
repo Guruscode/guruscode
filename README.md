@@ -1,10 +1,9 @@
 
-                                                      <p align = "center"> 
+                                       
                                                       "Stay hungry, stay foolish," (Steve Jobs)
                                                             👋   Hello mortal, May I  👋
                                              * 📫 Transforming the future of Africa's Technology✨ - @mobiverio.
-                                             </p>
-                    
+                                                             
 <!-- Icon info:
 Creator: Gregor Cresnar
 Colours used: #AE16B3 #426699 
@@ -19,32 +18,24 @@ Colours used: #AE16B3 #426699
 </p>
 
 <br>
-                                    Technologist  / Forever Learning, #AI #HumanTechnology #PrivateSecurity 
+                                 
 
 
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=450px>
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=350px>
 
 ### 🌱 Currently Learning:
-- Everything about [Go, Solidity Web3.js].
 - Mobile Engineering
 - Data Structures and Algorithms (DSA)
 
 ### 🍃 Current Projects:
-- A smart Digital Assitance for everyday life, A Daily Chore Handler, An All in one Business Application  (Web, Mobile, Blockchain, Security Ml, Al, cloud)
--  (Case-study : OurEdenlife, Openai)
--  (Project-Name : "Helum" )
-
-                   
+-  (Project-Name : "Helum" )              
 
 * 🌱 Primary coding language : PHP -- Javascript -- Python 
-* 🚀 Daily Drivers : Php Storm -- Boomplay -- Android Studio.
+* 🚀 Daily Drivers : Php Storm -- Spotify -- Vscode.
 * ⚡ Fun fact: I love To Build My own Universe someday "Something"verse.
-* 🎉 Hobbies: Reading, Writing Tech Articles.
+* 🎉 Hobbies: Nothing is Interesting actually Just do what makes you Happy.
 * 💬 Ask me about anything, I'll be happy to help.
-* 😄 Pronouns: He/Him
-
-
 
 ### ✨ OpenSource Communities:
 - [EddieHub](https://github.com/EddieHubCommunity), an international inclusive open source community
@@ -98,4 +89,4 @@ You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
 - [Codepen](https://codepen.io/guruscode)
  
 
-                                    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+                                          Show some ❤️ by starring some of the repositories!
