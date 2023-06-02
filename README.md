@@ -1,7 +1,9 @@
 
-                                                             "Stay hungry, stay foolish," (Steve Jobs)
-                                                               👋   Hello mortal, May I  👋
+                                                      <p align = "center"> 
+                                                      "Stay hungry, stay foolish," (Steve Jobs)
+                                                            👋   Hello mortal, May I  👋
                                              * 📫 Transforming the future of Africa's Technology✨ - @mobiverio.
+                                             </p>
                     
 <!-- Icon info:
 Creator: Gregor Cresnar
