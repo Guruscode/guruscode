@@ -10,10 +10,7 @@
 Creator: Gregor Cresnar
 Colours used: #AE16B3 #426699 
 -->
-
-
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=350px>
-       
+  
 <p align = "center"> 
   <a href = "https://twitter.com/engrdexterr">
     <img src="https://user-images.githubusercontent.com/61582763/135242590-813d0136-38b8-4ff9-8e9d-2a07d8a90596.png" alt = "Twitter Icon">
@@ -23,9 +20,14 @@ Colours used: #AE16B3 #426699
   </a>
 </p>
 
-<br>
+
                                  
 
+
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=350px>
+  
+  
+<br><br><br><br><br><br>  
 
       
 
