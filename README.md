@@ -99,14 +99,18 @@ Colours used: #AE16B3 #426699
 
 <br><br>
 
-<p align = "center">
+<p>
   <a href="https://github.com/guruscode">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=guruscode&show_icons=true&hide=stars&theme=radical">
-  </a>
-  <a href="https://github.com/guruscode">
+  </a> 
+</p>
+<p>
+ <a href="https://github.com/guruscode">
     <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruscode&layout=compact&theme=radical&card_width=250">
   </a>
+
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guruscode&theme=radical" alt="Guruscode" /></p>
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
 
 
@@ -133,11 +137,6 @@ src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wo
      src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/> <img 
      src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Vscode" width="50" height="50"/> 
  -->
-
-### My Digital Garden 🌱
-You can find my blogs at [DEV.to](https://dev.to/richardsisaac).
-
-</td>
 
 
 
